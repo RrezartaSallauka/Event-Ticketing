@@ -1,3 +1,8 @@
+### Create database
+```
+CREATE DATABASE event_ticketing;
+```
+
 ### Install packages using composer
 ```
 composer install
